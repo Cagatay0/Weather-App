@@ -1,4 +1,4 @@
-# weather_app
+# Hava Durumu
 
 
 ## Getting Started
